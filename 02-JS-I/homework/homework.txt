@@ -1,0 +1,19 @@
+Definiciones
+
+Variables: Una variable es un tipo de almacenamiento que vamos a utilizar mediante una palabra calve (VAR), esta nos permite almacenar todo tipo de dato, para luego poder hacer uso de la misma en el programa que estemos desarollando.
+En el lenguaje de programacion JS, no vamos a tener que declarar que tipo de dato vamos a almacenar en la variable, debido a que es de tipado dinamico.
+
+Strings: Es un bloque de texto. Siempre van dentro de comillas (simples o dobles), pueden ser una o mas palabras, siempre y cuando esten dentro de comillas.
+
+Funciones (argumentos, return): Una funcion es una parte de codigo que nos va a permitir trabajar las variables y todo tipo de cosas dentro del lenguaje de programacion.
+Se le llama por medio de la palabra clave (FUNCTION), seguido del nombre que le queramos poner (recomiendo poner un nombre que se relacione con la accion que vaya a efectuar la funcion). Luego se abre y cierra parentesis.
+Dentro de estos pondremos ARGUMENTOS segun la situacion lo amerite. Un ARGUMENTO puede ser una variable, una constante.. basicamente es un valor que se le pasa a la funcion para que trabaje con este.
+Luego, algo que vamos a utilizar muy seguido es la palabra clave RETURN en la FUNCION. Lo que va a hacer el RETURN, es devolver los datos que genere nuestra funcion. Tener en cuenta que, en donde pongamos el RETURN, la funcion
+se va a detener, y va a entregar lo que haya hecho hasta ahi.
+
+Declaraciones IF: La declaracion IF es basicamente un condicionante que utilizamos en el programa. Es una estructura de control, que se utiliza para tomar decisiones.
+Funciona de la siguiente manera: IF (expresion) //es verdadera, entonces ejecuta el siguiente codigo {codigo a ejecutar}.
+                                  ELSE //en caso de que la 1er expresion no sea verdadera, por lo tanto sea falsa, se va a ejecutar otra linea de codigo {codigo a ejecutar}.
+
+Valores Booleanos: Cuando hablamos de valores booleanos en JS, hablamos de 2 opciones. 1) TRUE (VERDADERO) o 2) FALSE (FALSO). Vamos a utilizarlos en variables, condicionales, funciones, etc..
+Provienen de LA LOGICA DE BOOLE.                                  
