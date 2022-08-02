@@ -1,0 +1,8 @@
+FOR: La sentencia FOR, es una funcion en bucle. Esto significa que se utiliza para repetir una o mas instrucciones un determinado numero de veces. Comienza declarando una variable (i) y se inicializa en numero determinado (generalmente 0).
+ Luego se declara una sentencia para darle un fin al bucle  (como por ejemplo i < 10) y por ultimo se agrega una sentencia que incremente la variable de 1 en 1 (i = i+1) o (i = ++).
+
+ &&: Este simbolo indica o hace referencia al operador logico 'AND' o 'Y'. Cuando se utiliza con valores booleanos, solo va a a devolver TRUE (verdadero) si solo si, ambas sentencias son verdaderas. Ya con una sola que sea falsa, todo seria falso.
+
+ ||: Este simbolo indica o hace referencia al operador logico 'OR' o 'O'. Cuando se utiliza con valores booleanos, va a devolver TRUE(verdadero) si uno de las 2 o mas sentencias es verdadera. En este caso, solo daria falso si todas las sentencias son falsas.
+
+ !: Este simbolo indica o hace referencia al operador logico 'NOT'. Lo que hace es negar la sentencia en donde se utilice. Osea que devuelve lo opuesto.
