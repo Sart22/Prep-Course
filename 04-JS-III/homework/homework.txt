@@ -1,0 +1,2 @@
+Array: Un array (como su traduccion al español lo indica), es un arreglo. Podemos verlo como una estructura de tipo lista. Nos permite hacer operaciones de recorrido, o de mutacion.
+       Los elementos que podemos cargar en su matriz son varios, esto significa que podemos combinar un string, un numero o un booleano.
