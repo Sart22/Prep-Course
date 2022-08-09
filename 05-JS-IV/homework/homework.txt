@@ -1,0 +1,14 @@
+objects: Un objeto nos va a permitir crear una entidad independiente con priopidades y tipos. Es un tipo de dato complejo, un conjunto de ordenado 
+         de priopiedades, las cuales se forman con un nombre y un valor.
+
+Propieties: Las propiedades serian todas las caracteristicas que nosotros podemos darle a los objetos. Tambien van a ser elementos modificables y manipulables.
+
+Methods:Los metodos son funciones guardadas dentro de un objeto. Se le puede llamar con notacion de puntos y/o parentesis. Basicamente son aquellas funciones que permite efectuar el objeto y que dan algun tipo de servicio durante el
+        transcurso del programa. Determina a su vez como va a responder el objeto cuando recibe un mensaje.
+
+Bucle for...in: El bucle FOR..IN es el que se utiliza para poder iterar dentro de un objeto. Comienza igual  que un bucle FOT normal, pero dentro de los parentesis, declaramos una variable, la palabra clave IN y el nombre del objeto.
+                Esto permite al FOR iterar dentro del objeto.
+
+Notacion de puntos vs. Notacion de corchetes: Las notaciones de punto o entrecorchete se va a utilizar cuando tengamos los pares-valor y necesitemos acceder a ellos. Con la notacion de puntos podemos llamar al nombre
+                                              del objeto,  un punto y el nombre de la llave.
+                                              Con la notacion de corchetes debemos usar una cadena o numero, o una variable que apunte a una cadena o numero. Si llamas a una clave, se envuelve entre comillas.                
